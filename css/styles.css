@@ -1,5 +1,5 @@
 body{
-  background-color: #cbf1f5;
+  background-color: #ffe7d1;
 }
 hr{
   border-style: none;
@@ -13,12 +13,13 @@ h1{
 }
 h3{
   color: #71c9ce;
-
 }
 p{
-
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
+
 table{
   text-align: center;
-  border-color:#71c9ce; 
+  border-color:#71c9ce;
 }
